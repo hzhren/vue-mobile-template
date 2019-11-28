@@ -488,8 +488,8 @@ export default {
     .logo {
       width: 250px;
       height: 43px;
-      background: url("../assets/logo.png") no-repeat;
-      background-size: cover;
+      // background: url("../assets/logo.png") no-repeat;
+      // background-size: cover;
     }
   }
   .content {
